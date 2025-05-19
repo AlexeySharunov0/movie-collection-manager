@@ -1,5 +1,3 @@
-# exceptions.py
-
 class DuplicateMovieError(Exception):
     pass
 
